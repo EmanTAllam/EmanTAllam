@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eman Allam</h1>
 <h3 align="center">Electronics & Electrical Communications Engineer | Aspiring Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emantallam&label=Profile%20views&color=0e75b6&style=flat" alt="emantallam" /> </p>
-
 - 🔭 I’m currently working on **Semiconductor Devices & Nanoelectronics**
 
 - 🌱 I’m currently learning **Semiconductor Physics, Nanoelectronics, Analog IC Design & AMS Layout**
