@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emantallam&label=Profile%20views&color=0e75b6&style=flat" alt="emantallam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emantallam" alt="emantallam" /></a> </p>
-
 - 🔭 I’m currently working on **Semiconductor Devices & Nanoelectronics**
 
 - 🌱 I’m currently learning **Semiconductor Physics, Nanoelectronics, Analog IC Design & AMS Layout**
